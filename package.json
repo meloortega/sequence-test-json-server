@@ -1,0 +1,23 @@
+{
+  "name": "sequence-test-json-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --watch mock.json --port 3000"
+  },
+  "description": "",
+  "homepage": "https://github.com/meloortega/sequence-test-json-server#readme",
+  "bugs": {
+    "url": "https://github.com/meloortega/sequence-test-json-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meloortega/sequence-test-json-server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
